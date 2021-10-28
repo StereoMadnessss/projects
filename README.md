@@ -18,6 +18,8 @@ https://planetminecraft.com/texture-pack/burping-pigs/ Burping Pigs
 
 https://planetminecraft.com/texture-pack/broken-bat-pack-1-15-pre3-unfinished/ Broken Bat Pack (No Longer being worked on due to technical issues)
 
+https://www.planetminecraft.com/texture-pack/colored-spruce-leaves/ It does what is says it makes Spruce Leaves affected by biome tinting.
+
 Mods:
 
 https://planetminecraft.com/mod/classic-decorations-5299758/ Classic Decorations (Current)
@@ -27,3 +29,10 @@ https://planetminecraft.com/data-pack/21w06a-datapack-overworld-recreation-21920
 Main Page:
 
 https://planetminecraft.com/member/StereoMadnessss My PMC Page
+
+Other Pages:
+https://www.reddit.com/user/StereoMadnesss (Reddit)
+
+https://www.youtube.com/channel/UCI84weTCzMY6GiR_JVPzzIw (Youtube)
+
+https://twitter.com/StereoMadnesss (Twitter, very inactive, only for voting for mobs in voting)
